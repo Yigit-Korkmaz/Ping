@@ -91,6 +91,5 @@ goto bitti
 :bitti
 color a
 echo İslem basariyla tamamlandi.
-cls
 pause
 
